@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/[ahmetykaraca](https://www.linkedin.com/in/ebubekirozkan
+[linkedin]: (https://www.linkedin.com/in/ebubekirozkan/)
 
 
 ## Languages and Tools:
