@@ -1,6 +1,6 @@
 ## Hi, I'm Ebubekir OZKAN 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and JavaScript.
 - 🔭 I’m working on Back-End and Front-end Development
 
 
