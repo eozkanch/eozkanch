@@ -1,27 +1,25 @@
+## Hi, I'm Ebubekir OZKAN 👋
+
+- 🌱 I’m currently learning Java and JavaScript.
 
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="lib/bootstrap-5.1.3-dist/css/bootstrap.min.css">
-    <title>USING BOOTSRAP LOCALLY</title>
-</head>
-<body>
-     <h1 class="text-center text-danger">USING BOOTSRAP LOCALLY</h1>
 
-    <div class="container">
-        <a href="#"><i class="bi bi-twitter p-2"></i></a>
-        <a href="#"><i class="bi bi-facebook p-2"></i></a>
-        <a href="#"><i class="bi bi-youtube p-2"></i></a>
-    </div>
+<br/>
+<br/>
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/ebubekirozkan/)" target="_blank"><img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 
-     <script src="lib/bootstrap-5.1.3-dist/js/bootstrap.min.js"></script>
-</body>
-</html>
 
+<br>
+</br>
+
+## Languages and Tools:
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="html" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/806104/98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749.png" alt="vscode" width="40" height="40"/> </a>
+<a href="[https://code.visualstudio.com](https://getbootstrap.com/)/" target="_blank"> <img src="[https://user-images.githubusercontent.com/806104/98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749.png](https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png)" alt="vscode" width="40" height="40"/> </a>
