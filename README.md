@@ -24,3 +24,4 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/806104/98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="vscode" width="40" height="40"/> </a>
