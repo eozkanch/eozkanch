@@ -27,6 +27,6 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="iNTELIJ iDEA" width="80" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" width="80" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" alt="MongoDb" width="80" height="60" /> </a>
-<a href="#" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot&psig=AOvVaw0eCFUzKohNLhmmS0CVuJ3P&ust=1673896742517000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPD48bilyvwCFQAAAAAdAAAAABAD" alt="SpringBoot" width="80" height="60" /> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="SpringBoot" width="80" height="60" /> </a>
 
 
