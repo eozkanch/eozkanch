@@ -28,4 +28,6 @@ Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-
 <a href="#"> <img src="https://github.com/eozkanch/JavaScript/blob/main/icons/mongodb.png" alt="MongoDb" width="40"  /> </a>
 <a href="#"> <img src="https://github.com/eozkanch/JavaScript/blob/main/icons/spring.png" width="40" /> </a>
 <a href="#"> <img src="https://github.com/eozkanch/JavaScript/blob/main/icons/React.png"  alt="React" width="40" /> </a>
+<a href="#"> <img src="https://github.com/eozkanch/JavaScript/blob/main/icons/postman-icon.png"  alt="React" width="40" /> </a>
+
 
