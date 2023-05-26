@@ -1,5 +1,5 @@
 ## Hi, I'm Ebubekir OZKAN 👋
-Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-Boostrap-React Js-Sass-Webpack-Next Js
+Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-Boostrap-React Js-Sass-Webpack-Next Js-Redux Js
 
 
 
@@ -30,7 +30,8 @@ Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-
 <a href="#"> <img src="https://github.com/eozkanch/JavaScript/blob/main/icons/React.png"  alt="React" width="40" /> </a>
 <a href="#"> <img src="https://github.com/eozkanch/JavaScript/blob/main/icons/postman-icon.png"  alt="React" width="40" /> </a>
 <a href="#"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"  alt="sass" width="40" /> </a>
-<a href="#"> <img src="https://v4.webpack.js.org/e0b5805d423a4ec9473ee315250968b2.svg"  alt="webpack" width="40" /> </a>
-<a href="#"> <img src="https://commons.wikimedia.org/wiki/File:Tabler-icons_brand-nextjs.svg#/media/File:Tabler-icons_brand-nextjs.svg"  alt="next" width="40" /> </a>
+<a href="#"> <img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg"  alt="webpack" width="40" /> </a>
+<a href="#"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"  alt="redux" width="40" /> </a>
+<a href="#"> <img src="https://commons.wikimedia.org/wiki/File:Nextjs-logo.svg"  alt="next" width="40" /> </a>
 
 
