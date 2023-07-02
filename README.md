@@ -1,5 +1,5 @@
 ## Hi, I'm Ebubekir OZKAN 👋
-Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-Boostrap-React Js-Sass-Webpack-Next Js-Redux Js
+Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-Boostrap-React Js-Sass-Webpack-Next Js-Redux Js-AWS
 
 
 
