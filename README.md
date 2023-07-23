@@ -9,7 +9,7 @@ Java-Lambda-SQL-Hibernate-MongoDB-SpringMVC-SpringBoot ||  HTML-CSS-JAVA SCRIPT-
 <br/>
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/ebubekirozkan/" target="_blank"><img align="left" alt="linkedin | LinkedIn" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+<a href="https://www.linkedin.com/in/ebubekirozkan/" target="_blank"><img align="left" alt="linkedin | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
 
 
 
