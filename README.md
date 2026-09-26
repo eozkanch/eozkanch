@@ -1,10 +1,10 @@
 <div align="center">
 
-# Merhaba, Ben Ebubekir Özkan 👋
+# Hi, I'm Ebubekir Özkan 👋
 
-### Full-Stack Developer — Java & JavaScript Ekosisteminde Çözümler Üretiyorum
+### Full-Stack Developer — Building Solutions Across the Java & JavaScript Ecosystems
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Spring+Boot+%7C+AWS;JavaScript+%7C+React+%7C+Next.js;Sürekli+öğreniyor,+sürekli+üretiyorum;&font=Fira%20Code&center=true&width=440&height=40&color=2E9EF7&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Java+%7C+Spring+Boot+%7C+AWS;JavaScript+%7C+React+%7C+Next.js;Always+learning,+always+building;&font=Fira%20Code&center=true&width=440&height=40&color=2E9EF7&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/ebubekirozkan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,17 +14,17 @@
 
 <br/>
 
-## 🧭 Hakkımda
+## 🧭 About Me
 
-- 🔭 Şu anda **Java / Spring Boot** ve **Next.js** ile uçtan uca web uygulamaları geliştiriyorum.
-- 🌱 **AWS**, **Docker** ve modern bulut mimarileri üzerine kendimi geliştiriyorum.
-- 🛠️ Hem sunucu tarafı (Spring MVC, Spring Boot, Hibernate, Lambda) hem de istemci tarafı (React, Redux, Tailwind) teknolojilerinde aktif olarak çalışıyorum.
-- 💬 Java, JavaScript/TypeScript, mimari kararlar ve bulut teknolojileri hakkında konuşmaktan memnuniyet duyarım.
-- 📫 Bana ulaşmak için: **[LinkedIn](https://www.linkedin.com/in/ebubekirozkan/)**
+- 🔭 Currently building end-to-end web applications with **Java / Spring Boot** and **Next.js**.
+- 🌱 Continuously leveling up my skills in **AWS**, **Docker**, and modern cloud architectures.
+- 🛠️ Comfortable across the full stack — backend (Spring MVC, Spring Boot, Hibernate, Lambda) and frontend (React, Redux, Tailwind).
+- 💬 Happy to talk about Java, JavaScript/TypeScript, architecture decisions, and cloud technologies.
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ebubekirozkan/)**
 
 <br/>
 
-## 🧰 Teknoloji Yığınım
+## 🧰 Tech Stack
 
 <div align="left">
 
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
 
-**Veritabanı & DevOps**
+**Database & DevOps**
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -61,7 +61,7 @@
 
 <br/>
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eozkanch&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -76,12 +76,12 @@
 
 <div align="center">
 
-### 🤝 Bağlantıda Kalalım
+### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/ebubekirozkan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<sub>⭐ Profilimi ziyaret ettiğiniz için teşekkürler!</sub>
+<sub>⭐ Thanks for stopping by my profile!</sub>
 
 </div>
