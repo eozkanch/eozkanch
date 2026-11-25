@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A66C2,100:2E9EF7&text=Ebubekir%20%C3%96zkan&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Java%20%26%20JavaScript%20Ecosystems&descSize=18&descAlignY=60&animation=fadeIn" alt="Ebubekir Özkan banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=140&amp;color=0A66C2&amp;text=Ebubekir%20%C3%96zkan&amp;fontColor=ffffff&amp;fontSize=44&amp;desc=Full-Stack%20Developer&amp;descSize=18&amp;descAlignY=70" alt="Ebubekir Özkan banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1500&color=2E9EF7&center=true&vCenter=true&width=520&height=40&lines=Java+%7C+Spring+Boot+%7C+AWS;JavaScript+%7C+React+%7C+Next.js;Clean+code.+Scalable+systems.;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -97,21 +97,6 @@ I'm a **full-stack developer** who enjoys turning ideas into reliable, productio
 
 <br/>
 
-## 📌 Featured Projects
-
-<!--
-  Pin your best repositories on your profile, or showcase them here.
-  Replace the placeholders below with your own projects.
--->
-
-| Project | Description | Tech |
-|---|---|---|
-| 🚀 **[Project One](https://github.com/eozkanch/REPO-NAME)** | Short, one-line description of what it does and why it matters | `Java` `Spring Boot` `PostgreSQL` |
-| 🛒 **[Project Two](https://github.com/eozkanch/REPO-NAME)** | Short, one-line description of what it does and why it matters | `Next.js` `React` `Tailwind` |
-| ☁️ **[Project Three](https://github.com/eozkanch/REPO-NAME)** | Short, one-line description of what it does and why it matters | `AWS Lambda` `Docker` |
-
-<br/>
-
 ## 🎯 Currently Focused On
 
 - [x] Spring Boot REST APIs & Hibernate data layer
@@ -134,6 +119,6 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 <sub>⭐ Thanks for stopping by my profile!</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2E9EF7,100:0A66C2&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=60&amp;color=0A66C2&amp;section=footer" alt="footer" />
 
 </div>
